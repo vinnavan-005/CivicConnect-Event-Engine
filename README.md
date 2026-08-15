@@ -1,6 +1,6 @@
 # CivicConnect Event Engine
 
-A standalone deterministic civic-issue event engine. It is intentionally independent of `SIH_v8`.
+A standalone deterministic civic-issue event engine.
 
 ## What is implemented
 
